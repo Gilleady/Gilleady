@@ -1,48 +1,23 @@
 <!--
 ### Hi there 👋
 
-**Gilleady/Gilleady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# **[Gilleady](https://www.github.com/Gilleady)**
-
-## 🔥 GitHub Stats:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gilleady&show_icons=true&theme=dark&hide_title=true)](https://www.github.com/Gilleady)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gilleady&theme=dark)](https://www.github.com/Gilleady)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilleady&layout=compact&theme=dark)](https://www.github.com/Gilleady)
-
 <h2>
   Olá!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
+-->
 
-Sou Gilleady, um entusiasta da programação e apaixonado por resolver problemas. Meu foco principal é desenvolvimento back-end. Atualmente, estou buscando novas oportunidades de emprego enquanto estou aprendendo novas tecnologias e linguagens de programação. Estou sempre aberto a colaborações e novos desafios.
+# Gilleady
 
-## 🌱 O que estou aprendendo atualmente
-- Python
-- Git e Github
+Desenvolvedor back-end, graduando em Ciência da Computação entusiasta da programação e apaixonado por tecnologias. Gosto de música, jogos, e animes.
 
-## 📫 Como me encontrar
-- [![Linkedin Badge](https://img.shields.io/badge/-Gilleady-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/gilleady)
+### 📫 Como me encontrar
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00EAD3)](linkedin.com/in/gilleady)
 
-## ⚡ Curiosidades
-- Curto animes
-- Gosto de vôlei
-- Sou músico
+### 🔥 GitHub Stats:
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gilleady&show_icons=true&theme=neon&text_color=FFF&border_color=00EAD3&icon_color=00EAD3&hide_title=true)](https://www.github.com/Gilleady)
 
-Obrigado por visitar meu perfil! Vamos nos conectar e trocar conhecimentos. 😄
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilleady&layout=compact&theme=dark&bg_color=000&border_color=00EAD3&icon_color=00EAD3&hide_title=false)](https://www.github.com/Gilleady) -->
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gilleady&theme=dark&bg_color=000&border_color=00EAD3&icon_color=00EAD3)](https://www.github.com/Gilleady) -->
