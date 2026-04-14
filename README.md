@@ -14,6 +14,12 @@ Desenvolvedor back-end, graduando em Ciência da Computação entusiasta da prog
 ### 📫 Como me encontrar
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00EAD3)](https://linkedin.com/in/gilleady)
 
+<!--
 ### 🔥 GitHub Stats:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gilleady&show_icons=true&theme=neon&text_color=FFF&border_color=00EAD3&icon_color=00EAD3&hide_title=true)](https://github.com/Gilleady)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilleady&layout=compact&theme=dark&bg_color=000&border_color=00EAD3&icon_color=00EAD3&hide_title=false)](https://github.com/Gilleady)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gilleady&theme=dark&bg_color=000&border_color=00EAD3&icon_color=00EAD3)](https://github.com/Gilleady)
+-->
